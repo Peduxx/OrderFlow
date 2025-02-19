@@ -1,8 +1,13 @@
 # 🛒 OrderFlow - Sistema de Gerenciamento de Pedidos
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Peduxx/orderflow?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/Peduxx/orderflow?style=flat-square)
-![GitHub license](https://img.shields.io/github/license/Peduxx/orderflow?style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/Peduxx/ORderFlow)
+![GitHub license](https://img.shields.io/github/license/Peduxx/ORderFlow)
+![GitHub contributors](https://img.shields.io/github/contributors/Peduxx/OrderFlow)
+![GitHub Release](https://img.shields.io/github/v/release/Peduxx/OrderFlow)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/Peduxx/OrderFlow)
+
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 
 ## 📌 Visão Geral
 
