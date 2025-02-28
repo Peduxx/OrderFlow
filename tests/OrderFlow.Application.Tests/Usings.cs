@@ -1,0 +1,13 @@
+﻿global using AutoFixture;
+global using AutoFixture.AutoMoq;
+global using AutoMapper;
+global using FluentValidation;
+global using FluentValidation.Results;
+global using MediatR;
+global using Moq;
+global using OrderFlow.Application.Commands;
+global using OrderFlow.Application.Commands.Handlers;
+global using OrderFlow.Domain.Entities;
+global using OrderFlow.Domain.Exceptions;
+global using OrderFlow.Domain.Interfaces.Repositories;
+global using OrderFlow.Domain.Primitives;

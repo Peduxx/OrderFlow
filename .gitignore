@@ -1,0 +1,4 @@
+﻿# 🔹 Arquivos e pastas do .NET que devem ser ignorados
+bin/
+obj/
+.vs/

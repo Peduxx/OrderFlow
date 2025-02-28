@@ -1,0 +1,16 @@
+global using MediatR;
+global using OrderFlow.Application.DTOs.Response;
+global using OrderFlow.Domain.Entities;
+global using OrderFlow.Domain.Aggregates;
+global using AutoMapper;
+global using OrderFlow.Application.Commands;
+global using OrderFlow.Domain.Enums;
+global using OrderFlow.Domain.Exceptions;
+global using OrderFlow.Domain.Interfaces;
+global using MongoDB.Bson;
+global using OrderFlow.Domain.Interfaces.Repositories;
+global using OrderFlow.Domain.ValueObjects;
+global using OrderFlow.Domain.DomainEvents;
+global using MongoDB.Driver;
+global using FluentValidation;
+global using OrderFlow.Application.DTOs.Response.Primitive;

@@ -1,0 +1,24 @@
+global using Microsoft.OpenApi.Models;
+global using OrderFlow.Application.Commands;
+global using OrderFlow.Api.Config;
+global using System.Net;
+global using System.Text.Json;
+global using OrderFlow.Domain.Exceptions;
+global using MediatR;
+global using Microsoft.AspNetCore.Mvc;
+global using OrderFlow.Api.Http.Request;
+global using Microsoft.AspNetCore.Mvc.Versioning;
+global using System.Text;
+global using MongoDB.Bson;
+global using OrderFlow.Api.Middlewares;
+global using MongoDB.Bson.Serialization.Attributes;
+global using OrderFlow.Domain.Enums;
+global using AutoMapper;
+global using OrderFlow.Application.DTOs.Response;
+global using MongoDB.Driver;
+global using OrderFlow.Domain.Entities;
+global using OrderFlow.CrossCutting;
+global using FluentValidation;
+global using OrderFlow.Application.Commands.Validation;
+global using Microsoft.AspNetCore.Diagnostics.HealthChecks;
+
