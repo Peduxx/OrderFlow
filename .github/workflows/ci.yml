@@ -9,7 +9,7 @@ on:
       - main
 
 env:
-  DOTNET_VERSION: '7.0' # Altere para a versão do .NET que você está usando
+  DOTNET_VERSION: '9.0'
 
 jobs:
   build-and-test:

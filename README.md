@@ -57,7 +57,7 @@ Também utiliza **CQRS** para separação entre comandos e consultas, além de e
 A infraestrutura do **OrderFlow** é provisionada na AWS utilizando **Terraform**, incluindo:
 
 - **ECS** para orquestração de containers
-- **PostgreSQL (Amazon RDS)** como banco de dados relacional
+- **Mongo** como banco de dados relacional
 - **RabbitMQ** para mensageria
 - **Cognito** para autenticação
 - **CloudWatch/OpenTelemetry** para monitoramento
